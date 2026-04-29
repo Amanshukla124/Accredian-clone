@@ -4,22 +4,6 @@ A premium, highly-optimized enterprise landing page built with Next.js, React, T
 
 This project completely reimagines the Accredian Enterprise landing experience, moving away from generic, "vibecoded" aesthetics into a sophisticated, editorial, and architecturally sound design system targeted at enterprise L&D leaders.
 
-## Setup Instructions
-
-First, ensure you have Node.js (v18 or higher) installed. 
-
-1. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-3. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
-
 ## Approach Taken
 
 The core objective of this build was to create an interface that feels inherently premium and trustworthy, suitable for enterprise-grade clients (IITs, IIMs, global MNCs). To achieve this, I implemented several structural and visual paradigms:
